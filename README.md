@@ -84,7 +84,7 @@ SplashCreator is a comprehensive PHP-based SaaS platform that enables agencies, 
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/splashcreator.git
+git clone https://github.com/ahmedsaadawi13/splashcreator.git
 cd splashcreator
 ```
 
